@@ -20,15 +20,11 @@ async def upgrade(bot,update):
 	Daily Upload limit 100GB
 	Price Rs 206  ind /🌎 2.5$  per Month
 	
+
 	
-	Pay Using Upi I'd ```7808912076@paytm```
-	
-	After Payment Send Screenshots Of 
-        Payment To Admin @mRiderDM"""
+	Contact @GUARDIANff"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mRiderDM")], 
-        			[InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9"),
-        			InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/GUARDIANff")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
 
@@ -51,12 +47,7 @@ async def upgradecm(bot,message):
 	Price Rs 206  ind /🌎 2.5$  per Month
 	
 	
-	Pay Using Upi I'd ```7808912076@paytm```
-	
-	After Payment Send Screenshots Of 
-        Payment To Admin @mRiderDM"""
+	Contact @GUARDIANff"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/mRiDerDM")], 
-        			[InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9"),
-        			InlineKeyboardButton("Paytm",url = "https://p.paytm.me/xCTH/vo37hii9")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/GUARDIANff")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await message.reply_text(text = text,reply_markup = keybord)
