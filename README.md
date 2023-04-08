@@ -1,7 +1,7 @@
-<img src="https://telegra.ph/file/9936c273582628afb098c.png" alt="logo" target="/blank">
+<img src="https://te.legra.ph/file/f7bb87698b34dd8ba46c1.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://telegram.me/LazyDeveloper" target="/blank"> Gangster Baby ( PREMIUM Renamer ) </a></>
+ <b><a href="https://telegram.me/AM_FILMS" target="/blank"> Gangster Baby ( PREMIUM Renamer ) </a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
